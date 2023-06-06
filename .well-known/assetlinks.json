@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quietbranchstudio.app.deeplinksample",
+    "sha256_cert_fingerprints": ["37c0e7bdfe538498d446fd1c67ca46149d27b9898cdc76324a075fe8a681a2d4"]
+  }
+}]
