@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.quietbranchstudio.app.deeplinksample",
-    "sha256_cert_fingerprints": ["37:c0:e7:bd:fe:53:84:98:d4:46:fd:1c:67:ca:46:14:9d:27:b9:89:8c:dc:76:32:4a:07:5f:e8:a6:81:a2:d4"]
+    "sha256_cert_fingerprints": ["37:C0:E7:BD:FE:53:84:98:D4:46:FD:1C:67:CA:46:14:9D:27:B9:89:8C:DC:76:32:4A:07:5F:E8:A6:81:A2:D4"]
   }
 }]
